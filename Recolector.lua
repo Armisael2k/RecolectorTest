@@ -1,4 +1,5 @@
-_G.Recolector = {};
+Recolector = {};
+
 function Recolector.Collect(Config)
   local instance = {};
   instance.TargetQty = 0;
